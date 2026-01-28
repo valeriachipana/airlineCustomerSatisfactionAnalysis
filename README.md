@@ -57,3 +57,7 @@ Se entrenaron y compararon distintos modelos de clasificación (Regresión Logí
 - Apoyar decisiones de marketing basadas en datos
   
 El análisis exploratorio, el entrenamiento de modelos y la evaluación detallada se encuentran disponibles en el notebook del repositorio.
+
+* 🔗 **Notebook interactivo (Google Colab):** [link
+](https://colab.research.google.com/drive/1mqojMEgfHj8ABJy3JfemtV-StvvBbgey?usp=sharing)
+* 📁 **Notebook en el repositorio:** [link](Predicción_de_insatisfacción_de_clientes_ML.ipynb)
