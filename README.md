@@ -9,6 +9,8 @@ Este proyecto utiliza Python y Machine Learning para **identificar clientes con 
 ## Contexto del negocio
 El análisis exploratorio reveló una situación relevante:
 
+<img src="images/proporSatisfacciónInsatisfaccion.jpg" width="350"/>
+
 - El 81.7% de los clientes son considerados leales.
 - Sin embargo, solo el 63.5% de ellos se declara satisfecho
 
